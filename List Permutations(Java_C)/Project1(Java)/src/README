@@ -1,0 +1,15 @@
+List.java:
+The ADT for this program stores integers in a doubly linked list.
+
+ListTest.java
+Test the functionality of the List class.
+
+Shuffle.java
+Applies permutations from an input file and writes the new Lists
+to an output file.
+
+makefile
+compiles the program together
+
+README
+info on the files submitted

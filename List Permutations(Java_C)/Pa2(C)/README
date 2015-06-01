@@ -1,0 +1,26 @@
+Eloy Salinas
+eloys@ucsc.edu | 1243517
+Pa2
+
+List.c:
+The List ADT implementation for this program stores integers in a doubly linked list.
+
+List.h
+Header file for List ADT.
+
+ListTest.c
+Test the functionality of the List class.
+Uses List.h
+
+Shuffle.c
+Uses list.h and an input and output file
+Applies permutations from an input file and writes the shuffled List
+and the order of permutations to an output file.
+Has the form to be called from the command line:
+Shuffle infile outfile
+
+Makefile
+Compiles the program together
+
+README
+File describing the files created for this assignment, their purposes, and relationships.
